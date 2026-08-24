@@ -1,4 +1,4 @@
-## Yo
+## Hi there!
 
 I'm makakrrik, Unity C# programmer
 
