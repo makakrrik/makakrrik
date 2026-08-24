@@ -1,4 +1,6 @@
-## Unity programmer
+## Yo
+
+I'm makakrrik, Unity C# programmer
 
 <!--
 **makakrrik/makakrrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
